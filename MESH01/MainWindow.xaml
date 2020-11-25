@@ -1,0 +1,99 @@
+﻿<Window x:Class="MESH.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:MESH"
+        mc:Ignorable="d"
+        Title="MESH" Height="450" Width="800" Icon="Icon_coretec.png">
+    <Grid>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="50"/>
+            <ColumnDefinition Width="1*"/>
+            <ColumnDefinition Width="75"/>
+        </Grid.ColumnDefinitions>
+        <Grid.Resources>
+            <Style TargetType="Button">
+                <Setter Property="Width" Value="25"/>
+                <Setter Property="Height" Value="25"/>
+                <Setter Property="Margin" Value="0,5"/>
+                <Setter Property="Background" Value="{x:Null}"/>
+                <Setter Property="BorderBrush" Value="{x:Null}"/>
+                <Setter Property="Foreground" Value="{x:Null}"/>
+                <Setter Property="Cursor" Value="Hand"/>
+            </Style>
+            <Style TargetType="Image">
+                <Setter Property="HorizontalAlignment" Value="Center"/>
+                <Setter Property="VerticalAlignment" Value="Center"/>
+                <Setter Property="Stretch" Value="Fill"/>
+            </Style>
+        </Grid.Resources>
+        <Grid Grid.Column="0">
+            <TextBlock HorizontalAlignment="Center" VerticalAlignment="Top" FontFamily="Caveat" FontSize="11" Margin="0,15,0,0">Menu</TextBlock>
+            <StackPanel Margin="0,50,0,0">
+                <Button x:Name="Button_menu_new_file">
+                    <Image Source="Resources\Menu_icons\New_file.png"/>
+                </Button>
+                <Button x:Name="Button_menu_open_file">
+                    <Image Source="Resources\Menu_icons\Open_file.png"/>
+                </Button>
+                <Button x:Name="Button_menu_save">
+                    <Image Source="Resources\Menu_icons\Save.png"/>
+                </Button>
+                <Button x:Name="Button_menu_save_as">
+                    <Image Source="Resources\Menu_icons\Save_as.png"/>
+                </Button>
+                <Button x:Name="Button_menu_import">
+                    <Image Source="Resources\Menu_icons\Import.png"/>
+                </Button>
+                <Button x:Name="Button_menu_help">
+                    <Image Source="Resources\Menu_icons\Help.png"/>
+                </Button>
+                <Button x:Name="Button_menu_information">
+                    <Image Source="Resources\Menu_icons\Information.png"/>
+                </Button>
+            </StackPanel>
+        </Grid>
+        <Grid Grid.Column="1">
+            <Viewport3D>
+            </Viewport3D>
+            <Rectangle Stroke="Black"/>
+            <TextBlock VerticalAlignment="Center" HorizontalAlignment="Center" FontSize="36" Foreground="#FF00">CANVAS AQUI</TextBlock>
+        </Grid>
+        <Grid Grid.Column="2">
+            <TextBlock HorizontalAlignment="Center" VerticalAlignment="Top" FontFamily="Caveat" FontSize="11" Margin="0,15,0,0">Drawing</TextBlock>
+            <StackPanel Margin="0,15,0,0">
+                <Expander Header="Geometry" FontSize="8" Margin="0,30,0,0">
+                    <StackPanel>
+                        <Button x:Name="Button_drawing_dot">
+                            <Image Source="Resources\Drawing_icons\Dot.png" Width="5" Height="5"/>
+                        </Button>
+                        <Button x:Name="Button_drawing_line">
+                            <Image Source="Resources\Drawing_icons\Line.png"/>
+                        </Button>
+                        <Button x:Name="Button_drawing_selection">
+                            <Image Source="Resources\Drawing_icons\Selection.png"/>
+                        </Button>
+                    </StackPanel>
+                </Expander>
+                <Expander Header="Property" FontSize="8" IsExpanded="False" VerticalAlignment="Center" Margin="0,0,0,0" >
+                    <StackPanel>
+                        <Button x:Name="Button_drawing_material">
+                            <Image Source="Resources\Drawing_icons\Material.png"/>
+                        </Button>
+                        <Button x:Name="Button_drawing_thickness">
+                            <Image Source="Resources\Drawing_icons\Thickness.png"/>
+                        </Button>
+                    </StackPanel>
+                </Expander>
+                <Expander Header="Mesh" FontSize="8" IsExpanded="False" VerticalAlignment="Center" Margin="0,0,0,0" >
+                    <StackPanel>
+                        <Button x:Name="Button_drawing_mesh">
+                            <Image Source="Resources\Drawing_icons\Mesh.png"/>
+                        </Button>
+                    </StackPanel>
+                </Expander>
+            </StackPanel>
+        </Grid>
+    </Grid>
+</Window>

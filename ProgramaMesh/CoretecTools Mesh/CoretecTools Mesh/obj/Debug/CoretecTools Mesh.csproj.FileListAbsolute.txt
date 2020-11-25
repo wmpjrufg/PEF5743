@@ -1,0 +1,22 @@
+C:\Users\Usuario\Documents\GitHub\PEF5743\ProgramaMesh\CoretecTools Mesh\CoretecTools Mesh\bin\Debug\CoretecTools Mesh.exe.config
+C:\Users\Usuario\Documents\GitHub\PEF5743\ProgramaMesh\CoretecTools Mesh\CoretecTools Mesh\bin\Debug\CoretecTools Mesh.exe
+C:\Users\Usuario\Documents\GitHub\PEF5743\ProgramaMesh\CoretecTools Mesh\CoretecTools Mesh\bin\Debug\CoretecTools Mesh.pdb
+C:\Users\Usuario\Documents\GitHub\PEF5743\ProgramaMesh\CoretecTools Mesh\CoretecTools Mesh\bin\Debug\MaterialDesignColors.dll
+C:\Users\Usuario\Documents\GitHub\PEF5743\ProgramaMesh\CoretecTools Mesh\CoretecTools Mesh\bin\Debug\MaterialDesignThemes.Wpf.dll
+C:\Users\Usuario\Documents\GitHub\PEF5743\ProgramaMesh\CoretecTools Mesh\CoretecTools Mesh\bin\Debug\MaterialDesignColors.pdb
+C:\Users\Usuario\Documents\GitHub\PEF5743\ProgramaMesh\CoretecTools Mesh\CoretecTools Mesh\bin\Debug\MaterialDesignThemes.Wpf.pdb
+C:\Users\Usuario\Documents\GitHub\PEF5743\ProgramaMesh\CoretecTools Mesh\CoretecTools Mesh\bin\Debug\MaterialDesignThemes.Wpf.xml
+C:\Users\Usuario\Documents\GitHub\PEF5743\ProgramaMesh\CoretecTools Mesh\CoretecTools Mesh\obj\Debug\CoretecTools Mesh.csprojAssemblyReference.cache
+C:\Users\Usuario\Documents\GitHub\PEF5743\ProgramaMesh\CoretecTools Mesh\CoretecTools Mesh\obj\Debug\MainWindow.g.cs
+C:\Users\Usuario\Documents\GitHub\PEF5743\ProgramaMesh\CoretecTools Mesh\CoretecTools Mesh\obj\Debug\App.g.cs
+C:\Users\Usuario\Documents\GitHub\PEF5743\ProgramaMesh\CoretecTools Mesh\CoretecTools Mesh\obj\Debug\CoretecTools Mesh_MarkupCompile.cache
+C:\Users\Usuario\Documents\GitHub\PEF5743\ProgramaMesh\CoretecTools Mesh\CoretecTools Mesh\obj\Debug\CoretecTools Mesh_MarkupCompile.lref
+C:\Users\Usuario\Documents\GitHub\PEF5743\ProgramaMesh\CoretecTools Mesh\CoretecTools Mesh\obj\Debug\App.baml
+C:\Users\Usuario\Documents\GitHub\PEF5743\ProgramaMesh\CoretecTools Mesh\CoretecTools Mesh\obj\Debug\MainWindow.baml
+C:\Users\Usuario\Documents\GitHub\PEF5743\ProgramaMesh\CoretecTools Mesh\CoretecTools Mesh\obj\Debug\CoretecTools Mesh.g.resources
+C:\Users\Usuario\Documents\GitHub\PEF5743\ProgramaMesh\CoretecTools Mesh\CoretecTools Mesh\obj\Debug\CoretecTools_Mesh.Properties.Resources.resources
+C:\Users\Usuario\Documents\GitHub\PEF5743\ProgramaMesh\CoretecTools Mesh\CoretecTools Mesh\obj\Debug\CoretecTools Mesh.csproj.GenerateResource.cache
+C:\Users\Usuario\Documents\GitHub\PEF5743\ProgramaMesh\CoretecTools Mesh\CoretecTools Mesh\obj\Debug\CoretecTools Mesh.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Documents\GitHub\PEF5743\ProgramaMesh\CoretecTools Mesh\CoretecTools Mesh\obj\Debug\CoretecTools Mesh.csproj.CopyComplete
+C:\Users\Usuario\Documents\GitHub\PEF5743\ProgramaMesh\CoretecTools Mesh\CoretecTools Mesh\obj\Debug\CoretecTools Mesh.exe
+C:\Users\Usuario\Documents\GitHub\PEF5743\ProgramaMesh\CoretecTools Mesh\CoretecTools Mesh\obj\Debug\CoretecTools Mesh.pdb
